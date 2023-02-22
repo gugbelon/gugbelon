@@ -1,10 +1,10 @@
-### Hi there 👋
+## Olá! Eu sou o Gustavo Belon!
+## Hi there, I'm Gustavo Belon!
 
+- 🌱 I’m currently learning python  
 <!--
-**gugbelon/gugbelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/gugbelon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugbelon&layout=compact&langs_count=7&theme=dark"/>
+</div>
