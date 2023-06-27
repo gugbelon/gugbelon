@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Gustavo Belon!
 ## Hi there, I'm Gustavo Belon!
 
-- 🌱 I’m currently learning python  
+- 🌱 I’m currently learning python
+- Try to create a mobile apps.
 <!--
 
 Here are some ideas to get you started:
